@@ -45,3 +45,7 @@ kind of common identifier.
     - [Data Dictionary](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)
  
 "The Instacart Online Grocery Shopping Dataset 2017", Accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle on July 2023.
+
+
+
+### For a detailed in-depth analysis, please refer to the [final report](https://github.com/dialgo25/CF-Instacart_Grocery_Basket_Analysis/blob/main/Instacart/05%20Final%20Deliverables/Instacart%20Case%20Study_Final%20Report.pdf) or the [Python Scripts](https://github.com/dialgo25/CF-Instacart_Grocery_Basket_Analysis/tree/main/Instacart/03%20Scripts)
